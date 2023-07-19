@@ -22,7 +22,7 @@ i am here to share my projects, ideas and collaborate with new people to develop
 
 ## 🛠 Tools & Technologies
 
-<img align="left" style="margin:5px 10px; height:20px" alt="GoLang" src="https://img.shields.io/badge/HTML5-%23E34F26?style=%20flat-square&logo=HTML5&logoColor=white"/>
+<img align="left" style="padding:5px 10px; height:20px" alt="GoLang" src="https://img.shields.io/badge/HTML5-%23E34F26?style=%20flat-square&logo=HTML5&logoColor=white"/>
 
 <img align="left" style="margin:5px 10px; height:20px" alt="Postgres" src="https://img.shields.io/badge/CSS3-%231572B6?style=%20flat-square&logo=CSS3&logoColor=white"/>
 
