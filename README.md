@@ -22,29 +22,6 @@ i am here to share my projects, ideas and collaborate with new people to develop
 
 ## 🛠 Tools & Technologies
 
-<!--<img align="left" style="margin:5px 15px;" width="40px" height="40px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-<img align="left" style="margin:5px 15px;" width="40px" height="40px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<img align="left" style="margin:5px 15px;"  width="40px" height="40px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
-<img align="left" style="margin:5px 15px;" width="40px" height="40px" alt="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-
-<img align="left" style="margin:5px 15px;" width="40px" height="40px" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-
-<img align="left" style="margin:5px 15px;" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" height="40px"/>
-
-<img align="left" style="margin:5px 15px;" width="50px" height="50px" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-<img align="left" style="margin:5px 15px;" width="40px" height="40px" alt="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-
-
-<img align="left" style="margin:5px 15px;" width="40px" height="40px" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img style="margin:5px 15px;" width="40px" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />-->
-
-<!-- test -->
-
 <img align="left" style="margin:5px 10px; height:20px" alt="GoLang" src="https://img.shields.io/badge/HTML5-%23E34F26?style=%20flat-square&logo=HTML5&logoColor=white"/>
 
 <img align="left" style="margin:5px 10px; height:20px" alt="Postgres" src="https://img.shields.io/badge/CSS3-%231572B6?style=%20flat-square&logo=CSS3&logoColor=white"/>
